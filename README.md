@@ -15,3 +15,4 @@
 - [Jeiwan/blockchain_go: A simplified blockchain implementation in Golang](https://github.com/Jeiwan/blockchain_go) 
 - [yosriady/api-development-tools: A collection of useful resources for building RESTful HTTP+JSON APIs.](https://github.com/yosriady/api-development-tools) 
 - [IonicaBizau/scrape-it: A Node.js scraper for humans.](https://github.com/IonicaBizau/scrape-it) 
+- [sematext/logagent-js: Extensible log shipper with input/output plugins, buffering, parsing, data masking, and small memory/CPU footprint](https://github.com/sematext/logagent-js) 
