@@ -14,3 +14,4 @@
 ### March 21, 2018 
 - [Jeiwan/blockchain_go: A simplified blockchain implementation in Golang](https://github.com/Jeiwan/blockchain_go) 
 - [yosriady/api-development-tools: A collection of useful resources for building RESTful HTTP+JSON APIs.](https://github.com/yosriady/api-development-tools) 
+- [IonicaBizau/scrape-it: A Node.js scraper for humans.](https://github.com/IonicaBizau/scrape-it) 
