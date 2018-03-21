@@ -7,3 +7,4 @@
 - [API para Autenticar usuários com JWT e Passport - Artigos sobre HTML, JavaScript, CSS e desenvolvimento web](https://tableless.com.br/autenticar-usuarios-com-jwt-e-passport/) 
 - [Entendendo tokens JWT (Json Web Token) - Artigos sobre HTML, JavaScript, CSS e desenvolvimento web](https://tableless.com.br/entendendo-tokens-jwt/) 
 - [Como implementar o Blockchain em JavaScript - Artigos sobre HTML, JavaScript, CSS e desenvolvimento web](https://tableless.com.br/como-implementar-blockchain-em-javascript/) 
+- [Introdução ao GraphQL com Node.js - Artigos sobre HTML, JavaScript, CSS e desenvolvimento web](https://tableless.com.br/introducao-graphql-nodejs/) 
