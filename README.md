@@ -9,3 +9,4 @@
 - [Como implementar o Blockchain em JavaScript - Artigos sobre HTML, JavaScript, CSS e desenvolvimento web](https://tableless.com.br/como-implementar-blockchain-em-javascript/) 
 - [Introdução ao GraphQL com Node.js - Artigos sobre HTML, JavaScript, CSS e desenvolvimento web](https://tableless.com.br/introducao-graphql-nodejs/) 
 - [Como criar aplicações em tempo real usando Node.js e RethinkDB - Artigos sobre HTML, JavaScript, CSS e desenvolvimento web](https://tableless.com.br/como-criar-aplicacoes-em-tempo-real-usando-node-js-e-rethinkdb/) 
+- [Automatizando tarefas com Cake - Artigos sobre HTML, JavaScript, CSS e desenvolvimento web](https://tableless.com.br/automatizando-tarefas-de-build-nuget-cake-netcore/) 
