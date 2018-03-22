@@ -16,3 +16,6 @@
 - [yosriady/api-development-tools: A collection of useful resources for building RESTful HTTP+JSON APIs.](https://github.com/yosriady/api-development-tools) 
 - [IonicaBizau/scrape-it: A Node.js scraper for humans.](https://github.com/IonicaBizau/scrape-it) 
 - [sematext/logagent-js: Extensible log shipper with input/output plugins, buffering, parsing, data masking, and small memory/CPU footprint](https://github.com/sematext/logagent-js) 
+
+### March 22, 2018 
+- [danmactough/node-feedparser: Robust RSS, Atom, and RDF feed parsing in Node.js](https://github.com/danmactough/node-feedparser) 
