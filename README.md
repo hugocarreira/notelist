@@ -28,3 +28,4 @@
 ### March 25, 2018 
 - [hubotio/hubot: A customizable life embetterment robot.](https://github.com/hubotio/hubot) 
 - [cassiobotaro/60-days-of-go: 60 days discovering go](https://github.com/cassiobotaro/60-days-of-go) 
+- [go-br/estudos: Material para estudo de Go](https://github.com/go-br/estudos) 
