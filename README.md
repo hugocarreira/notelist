@@ -29,3 +29,6 @@
 - [hubotio/hubot: A customizable life embetterment robot.](https://github.com/hubotio/hubot) 
 - [cassiobotaro/60-days-of-go: 60 days discovering go](https://github.com/cassiobotaro/60-days-of-go) 
 - [go-br/estudos: Material para estudo de Go](https://github.com/go-br/estudos) 
+
+### March 27, 2018 
+- [knsv/mermaid: Generation of diagram and flowchart from text in a similar manner as markdown](https://github.com/knsv/mermaid) 
