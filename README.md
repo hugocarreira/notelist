@@ -38,3 +38,4 @@
 - [kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2018](https://github.com/kamranahmedse/developer-roadmap) 
 - [Compressão de Respostas em APIs ASP.Net Core - Artigos sobre HTML, JavaScript, CSS e desenvolvimento web](https://tableless.com.br/compressao-respostas-api-dotnetcore/) 
 - [O que é Ethereum? -](https://imasters.com.br/tecnologia/o-que-e-ethereum/?trace=1519021197&source) 
+- [Cotações e Preços de Ações - Investing.com](https://br.investing.com/equities/) 
