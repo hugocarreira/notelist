@@ -43,3 +43,4 @@
 
 ### April 4, 2018 
 - [bbatsov/rails-style-guide: A community-driven Ruby on Rails style guide](https://github.com/bbatsov/rails-style-guide) 
+- [ekremkaraca/awesome-rails: A curated list of awesome things related to Ruby on Rails](https://github.com/ekremkaraca/awesome-rails) 
