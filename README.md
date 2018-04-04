@@ -45,3 +45,4 @@
 - [bbatsov/rails-style-guide: A community-driven Ruby on Rails style guide](https://github.com/bbatsov/rails-style-guide) 
 - [ekremkaraca/awesome-rails: A curated list of awesome things related to Ruby on Rails](https://github.com/ekremkaraca/awesome-rails) 
 - [Building a JSON API with Rails 5 | via @codeship](https://blog.codeship.com/building-a-json-api-with-rails-5/) 
+- [How to develop a social network using Ruby on Rails](https://medium.com/rails-ember-beyond/how-to-build-a-social-network-using-rails-eb31da569233) 
