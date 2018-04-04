@@ -40,3 +40,6 @@
 - [O que é Ethereum? -](https://imasters.com.br/tecnologia/o-que-e-ethereum/?trace=1519021197&source) 
 - [Cotações e Preços de Ações - Investing.com](https://br.investing.com/equities/) 
 - [- OneBitCode](https://onebitcode.com/) 
+
+### April 4, 2018 
+- [bbatsov/rails-style-guide: A community-driven Ruby on Rails style guide](https://github.com/bbatsov/rails-style-guide) 
