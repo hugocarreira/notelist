@@ -50,3 +50,4 @@
 ### April 5, 2018 
 - [stimulusjs/stimulus: A modest JavaScript framework for the HTML you already have](https://github.com/stimulusjs/stimulus) 
 - [stympy/faker: A library for generating fake data such as names, addresses, and phone numbers.](https://github.com/stympy/faker) 
+- [Criando API REST com Rails 5 – Jaguaribe Tech – Medium](https://medium.com/jaguaribetech/criando-api-rest-com-ruby-on-rails-1ed90d252831) 
