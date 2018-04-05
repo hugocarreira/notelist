@@ -49,3 +49,4 @@
 
 ### April 5, 2018 
 - [stimulusjs/stimulus: A modest JavaScript framework for the HTML you already have](https://github.com/stimulusjs/stimulus) 
+- [stympy/faker: A library for generating fake data such as names, addresses, and phone numbers.](https://github.com/stympy/faker) 
