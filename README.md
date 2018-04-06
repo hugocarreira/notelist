@@ -54,3 +54,4 @@
 
 ### April 6, 2018 
 - [ASP.NET Core 2 – Autenticação de usuário via redes sociais -](https://imasters.com.br/linguagens/asp/asp-net-core-2-autenticacao-de-usuario-via-redes-sociais/?trace=1519021197&source=single) 
+- [reactjs/react-rails: Integrate React.js with Rails views and controllers, the asset pipeline, or webpacker.](https://github.com/reactjs/react-rails) 
