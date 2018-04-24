@@ -65,3 +65,6 @@
 
 ### April 20, 2018 
 - [FullStack Mark — Building a GraphQL API with ASP.NET Core 2 and Entity Framework Core](https://fullstackmark.com/post/17/building-a-graphql-api-with-aspnet-core-2-and-entity-framework-core?utm_source=newsletter_mailer&utm_medium=email&utm_campaign=weekly) 
+
+### April 24, 2018 
+- [wallabyjs/quokka](https://github.com/wallabyjs/quokka) 
