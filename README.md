@@ -68,3 +68,6 @@
 
 ### April 24, 2018 
 - [wallabyjs/quokka](https://github.com/wallabyjs/quokka) 
+
+### April 25, 2018 
+- [jfromaniello/winser: Run a node.js application as a window service using nssm.](https://github.com/jfromaniello/winser) 
