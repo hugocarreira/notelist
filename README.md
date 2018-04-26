@@ -71,3 +71,6 @@
 
 ### April 25, 2018 
 - [jfromaniello/winser: Run a node.js application as a window service using nssm.](https://github.com/jfromaniello/winser) 
+
+### April 26, 2018 
+- [How To Code a Bitcoin "like" Blockchain In JavaScript - Blockgeeks](https://blockgeeks.com/guides/code-a-bitcoin-blockchain-in-javascript/) 
