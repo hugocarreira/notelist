@@ -74,3 +74,6 @@
 
 ### April 26, 2018 
 - [How To Code a Bitcoin "like" Blockchain In JavaScript - Blockgeeks](https://blockgeeks.com/guides/code-a-bitcoin-blockchain-in-javascript/) 
+
+### April 30, 2018 
+- [The Next Porn: How to design a service without having money](https://hackernoon.com/the-next-porn-how-to-design-a-service-without-having-money-599e98a433cf) 
