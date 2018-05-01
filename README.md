@@ -77,3 +77,6 @@
 
 ### April 30, 2018 
 - [The Next Porn: How to design a service without having money](https://hackernoon.com/the-next-porn-how-to-design-a-service-without-having-money-599e98a433cf) 
+
+### May 1, 2018 
+- [anaibol/awesome-serverless: A curated list of awesome services, solutions and resources for serverless / nobackend applications.](https://github.com/anaibol/awesome-serverless) 
