@@ -80,3 +80,6 @@
 
 ### May 1, 2018 
 - [anaibol/awesome-serverless: A curated list of awesome services, solutions and resources for serverless / nobackend applications.](https://github.com/anaibol/awesome-serverless) 
+
+### May 2, 2018 
+- [Short, instructional screencast video tutorials for web developers on @eggheadio](https://egghead.io/) 
