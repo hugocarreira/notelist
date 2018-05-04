@@ -83,3 +83,6 @@
 
 ### May 2, 2018 
 - [Short, instructional screencast video tutorials for web developers on @eggheadio](https://egghead.io/) 
+
+### May 4, 2018 
+- [Building forms using React — everything you need to know | Codementor](https://www.codementor.io/blizzerand/building-forms-using-react-everything-you-need-to-know-iz3eyoq4y) 
