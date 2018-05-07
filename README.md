@@ -86,3 +86,6 @@
 
 ### May 4, 2018 
 - [Building forms using React — everything you need to know | Codementor](https://www.codementor.io/blizzerand/building-forms-using-react-everything-you-need-to-know-iz3eyoq4y) 
+
+### May 7, 2018 
+- [Dockerizing ASP.NET Core Application With Dockerfiles - Code Maze](https://code-maze.com/aspnetcore-app-dockerfiles/) 
