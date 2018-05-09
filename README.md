@@ -90,3 +90,6 @@
 ### May 7, 2018 
 - [Dockerizing ASP.NET Core Application With Dockerfiles - Code Maze](https://code-maze.com/aspnetcore-app-dockerfiles/) 
 - [balderdashy/sails: Realtime MVC Framework for Node.js](https://github.com/balderdashy/sails) 
+
+### May 9, 2018 
+- [CRUD completo com Redis, MongoDB e Node.js -](https://imasters.com.br/banco-de-dados/crud-completo-com-redis-mongodb-e-node-js/?trace=1519021197&source=single) 
