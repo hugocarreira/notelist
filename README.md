@@ -93,3 +93,4 @@
 
 ### May 9, 2018 
 - [CRUD completo com Redis, MongoDB e Node.js -](https://imasters.com.br/banco-de-dados/crud-completo-com-redis-mongodb-e-node-js/?trace=1519021197&source=single) 
+- [graphcool/prisma: ⚡️ Prisma turns your database into a realtime GraphQL API](https://github.com/graphcool/prisma) 
