@@ -97,3 +97,6 @@
 
 ### May 14, 2018 
 - [danistefanovic/build-your-own-x: 🤓 Build your own (insert technology here)](https://github.com/danistefanovic/build-your-own-x) 
+
+### May 15, 2018 
+- [Autenticação em APIs ASP.Net Core com JWT -](https://imasters.com.br/apis/autenticacao-em-apis-asp-net-core-com-jwt/?trace=1519021197&source=single) 
