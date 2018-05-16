@@ -100,3 +100,6 @@
 
 ### May 15, 2018 
 - [Autenticação em APIs ASP.Net Core com JWT -](https://imasters.com.br/apis/autenticacao-em-apis-asp-net-core-com-jwt/?trace=1519021197&source=single) 
+
+### May 16, 2018 
+- [Dependency Injection in Go](https://blog.drewolson.org/dependency-injection-in-go/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=A%20Semana%20Go) 
