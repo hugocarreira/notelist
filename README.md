@@ -1,5 +1,8 @@
 # notelist
 
+
+### June 2, 2018 
+- [cleanbrowsing/dnsperftest: DNS Performance test](https://github.com/cleanbrowsing/dnsperftest) 
 ### June 1, 2018 
 - [An Introduction to Sails.js — SitePoint](https://www.sitepoint.com/an-introduction-to-sails-js/) 
 ### March 19, 2018 
