@@ -1,6 +1,9 @@
 # notelist
 
 
+
+### June 4, 2018 
+- [Curso de Ruby on Rails | Ruby | Jornada do Dev | Cursos de programação 100% gratuitos](https://jornadadodev.com.br/cursos/curso-de-ruby-rails) 
 ### June 2, 2018 
 - [cleanbrowsing/dnsperftest: DNS Performance test](https://github.com/cleanbrowsing/dnsperftest) 
 ### June 1, 2018 
