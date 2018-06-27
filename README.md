@@ -8,6 +8,7 @@
 
 ### June 27, 2018 
 - [feliixx/mgodatagen: Generate random data for MongoDB](https://github.com/feliixx/mgodatagen) 
+- [salihciftci/liman: Web application for monitoring docker. Monitor docker inside the docker.](https://github.com/salihciftci/liman?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=A%20Semana%20Go) 
 ### June 26, 2018 
 - [globalsign/mgo: The MongoDB driver for Go](https://github.com/globalsign/mgo) 
 ### June 15, 2018 
