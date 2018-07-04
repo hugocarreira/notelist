@@ -6,6 +6,9 @@
 
 
 
+
+### July 4, 2018 
+- [Golang grupo de estudos](https://gopher.pro.br/) 
 ### June 27, 2018 
 - [feliixx/mgodatagen: Generate random data for MongoDB](https://github.com/feliixx/mgodatagen) 
 - [salihciftci/liman: Web application for monitoring docker. Monitor docker inside the docker.](https://github.com/salihciftci/liman?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=A%20Semana%20Go) 
