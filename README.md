@@ -7,6 +7,9 @@
 
 
 
+
+### July 9, 2018 
+- [Imagens sem direitos autorais e em alta resolução para baixar grátis](https://pt.shopify.com/burst/imagens-sem-direitos-autorais) 
 ### July 4, 2018 
 - [Golang grupo de estudos](https://gopher.pro.br/) 
 ### June 27, 2018 
