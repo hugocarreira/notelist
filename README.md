@@ -8,6 +8,9 @@
 
 
 
+
+### July 26, 2018 
+- [face-api.js — JavaScript API for Face Recognition in the Browser with tensorflow.js](https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07?ct=t(BrazilJS_Weekly_468_9_2013_COPY_01)) 
 ### July 9, 2018 
 - [Imagens sem direitos autorais e em alta resolução para baixar grátis](https://pt.shopify.com/burst/imagens-sem-direitos-autorais) 
 ### July 4, 2018 
