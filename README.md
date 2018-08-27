@@ -10,6 +10,9 @@
 
 
 
+
+### August 27, 2018 
+- [feathericons/feather: Simply beautiful open source icons](https://github.com/feathericons/feather#feather) 
 ### August 25, 2018 
 - [React Redux Node MongoDB JWT Authentication Example](https://appdividend.com/2018/07/18/react-redux-node-mongodb-jwt-authentication/) 
 ### July 26, 2018 
