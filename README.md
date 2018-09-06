@@ -11,6 +11,9 @@
 
 
 
+
+### September 6, 2018 
+- [Getting specific about generics | emilymaier.net](https://emilymaier.net/words/getting-specific-about-generics/?utm_campaign=A%20Semana%20Go&utm_medium=email&utm_source=Revue%20newsletter) 
 ### August 27, 2018 
 - [feathericons/feather: Simply beautiful open source icons](https://github.com/feathericons/feather#feather) 
 ### August 25, 2018 
