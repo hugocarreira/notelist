@@ -13,6 +13,9 @@
 
 
 
+
+### September 23, 2018 
+- [ttezel/twit: Twitter API Client for node (REST & Streaming API)](https://github.com/ttezel/twit) 
 ### September 11, 2018 
 - [firesharkstudios/butterfly-server-dotnet: The Everything is Real-Time C# Backend for Web and Desktop Apps](https://github.com/firesharkstudios/butterfly-server-dotnet) 
 - [eykhagen/strest: ⚡️ Set up tests for REST in seconds with YAML](https://github.com/eykhagen/strest) 
