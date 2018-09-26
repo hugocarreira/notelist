@@ -14,6 +14,9 @@
 
 
 
+
+### September 26, 2018 
+- [Code:Nation | ganhe experiência usando desafios de programação](https://www.codenation.com.br/journey/backend/index.html) 
 ### September 23, 2018 
 - [ttezel/twit: Twitter API Client for node (REST & Streaming API)](https://github.com/ttezel/twit) 
 ### September 11, 2018 
