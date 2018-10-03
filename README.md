@@ -15,6 +15,9 @@
 
 
 
+
+### October 2, 2018 
+- [HTTP API: Libraries - Vault by HashiCorp](https://www.vaultproject.io/api/libraries.html) 
 ### September 26, 2018 
 - [Code:Nation | ganhe experiência usando desafios de programação](https://www.codenation.com.br/journey/backend/index.html) 
 ### September 23, 2018 
