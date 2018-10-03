@@ -16,6 +16,9 @@
 
 
 
+
+### October 3, 2018 
+- [Handling Go Errors](https://slides.com/marwansameer/handling-go-errors#/41) 
 ### October 2, 2018 
 - [HTTP API: Libraries - Vault by HashiCorp](https://www.vaultproject.io/api/libraries.html) 
 - [Accessing Vault with Go - My Code Smells!](https://mycodesmells.com/post/accessing-vault-with-go) 
