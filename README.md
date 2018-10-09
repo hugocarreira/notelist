@@ -17,6 +17,9 @@
 
 
 
+
+### October 9, 2018 
+- [Using HashiCorp Vault with LDAP | George Ornbo](https://shapeshed.com/hashicorp-vault-ldap/#listing-secrets) 
 ### October 3, 2018 
 - [Handling Go Errors](https://slides.com/marwansameer/handling-go-errors) 
 ### October 2, 2018 
