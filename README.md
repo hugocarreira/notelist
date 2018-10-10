@@ -18,6 +18,9 @@
 
 
 
+
+### October 10, 2018 
+- [Paste JSON as Code - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype) 
 ### October 9, 2018 
 - [Using HashiCorp Vault with LDAP | George Ornbo](https://shapeshed.com/hashicorp-vault-ldap/#listing-secrets) 
 ### October 3, 2018 
