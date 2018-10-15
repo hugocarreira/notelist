@@ -24,6 +24,7 @@
 - [JSON Web Token (JWT)](http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html) 
 - [HackerNews/API: Documentation and Samples for the Official HN API](https://github.com/HackerNews/API) 
 - [metakeule/fmtdate: MS Excel (TM) syntax for Go time/date](https://github.com/metakeule/fmtdate) 
+- [Web App With Gobuffalo ·](https://www.nicolasmorin.com/blog/web-app-with-gobuffalo/) 
 ### October 10, 2018 
 - [Paste JSON as Code - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype) 
 ### October 9, 2018 
