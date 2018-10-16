@@ -23,6 +23,7 @@
 
 ### October 16, 2018 
 - [OAI/OpenAPI-Specification: The OpenAPI Specification Repository](https://github.com/OAI/OpenAPI-Specification) 
+- [GoReleaser](https://goreleaser.com/) 
 ### October 15, 2018 
 - [JSON Web Token (JWT)](http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html) 
 - [HackerNews/API: Documentation and Samples for the Official HN API](https://github.com/HackerNews/API) 
