@@ -26,6 +26,7 @@
 - [GoReleaser](https://goreleaser.com/) 
 - [kelseyhightower/envconfig: Golang library for managing configuration data from environment variables](https://github.com/kelseyhightower/envconfig) 
 - [murlokswarm/app: Package to build GUI apps with Go, HTML and CSS.](https://github.com/murlokswarm/app) 
+- [Talento90/go-health: Health check your applications and dependencies](https://github.com/Talento90/go-health) 
 ### October 15, 2018 
 - [JSON Web Token (JWT)](http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html) 
 - [HackerNews/API: Documentation and Samples for the Official HN API](https://github.com/HackerNews/API) 
