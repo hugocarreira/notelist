@@ -25,6 +25,7 @@
 - [OAI/OpenAPI-Specification: The OpenAPI Specification Repository](https://github.com/OAI/OpenAPI-Specification) 
 - [GoReleaser](https://goreleaser.com/) 
 - [kelseyhightower/envconfig: Golang library for managing configuration data from environment variables](https://github.com/kelseyhightower/envconfig) 
+- [murlokswarm/app: Package to build GUI apps with Go, HTML and CSS.](https://github.com/murlokswarm/app) 
 ### October 15, 2018 
 - [JSON Web Token (JWT)](http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html) 
 - [HackerNews/API: Documentation and Samples for the Official HN API](https://github.com/HackerNews/API) 
