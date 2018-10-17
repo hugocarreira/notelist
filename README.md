@@ -24,6 +24,7 @@
 
 ### October 17, 2018 
 - [golang/oauth2: Go OAuth2](https://github.com/golang/oauth2) 
+- [Guia de estilo para pacotes Go - Avelino](https://avelino.run/guia-de-estilo-para-pacotes-go/) 
 ### October 16, 2018 
 - [OAI/OpenAPI-Specification: The OpenAPI Specification Repository](https://github.com/OAI/OpenAPI-Specification) 
 - [GoReleaser](https://goreleaser.com/) 
