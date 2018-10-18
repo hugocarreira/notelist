@@ -25,6 +25,7 @@
 
 ### October 18, 2018 
 - [appleboy/gin-jwt: JWT Middleware for Gin framework](https://github.com/appleboy/gin-jwt) 
+- [golangci/golangci-lint: Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.](https://github.com/golangci/golangci-lint) 
 ### October 17, 2018 
 - [golang/oauth2: Go OAuth2](https://github.com/golang/oauth2) 
 - [Guia de estilo para pacotes Go - Avelino](https://avelino.run/guia-de-estilo-para-pacotes-go/) 
