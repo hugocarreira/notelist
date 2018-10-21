@@ -32,6 +32,7 @@
 - [tidwall/gjson: Get JSON values quickly - JSON Parser for Go](https://github.com/tidwall/gjson) 
 - [dimiro1/health: An easy to use, extensible health check library for Go applications.](https://github.com/dimiro1/health) 
 - [yudai/gotty: Share your terminal as a web application](https://github.com/yudai/gotty) 
+- [enocom/gopher-reading-list: A curated selection of blog posts on Go](https://github.com/enocom/gopher-reading-list) 
 ### October 18, 2018 
 - [appleboy/gin-jwt: JWT Middleware for Gin framework](https://github.com/appleboy/gin-jwt) 
 - [golangci/golangci-lint: Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.](https://github.com/golangci/golangci-lint) 
