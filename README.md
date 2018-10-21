@@ -29,6 +29,7 @@
 - [Raphael Pierzina / tweets · GitLab](https://gitlab.com/hackebrot/tweets) 
 - [justforfunc #14: a twitter bot and systemd (that runs free on GCP) - YouTube](https://www.youtube.com/watch?v=SQeAKSJH4vw) 
 - [Understanding Tensorflow using Go – P. Galeone's blog](https://pgaleone.eu/tensorflow/go/2017/05/29/understanding-tensorflow-using-go/) 
+- [tidwall/gjson: Get JSON values quickly - JSON Parser for Go](https://github.com/tidwall/gjson) 
 ### October 18, 2018 
 - [appleboy/gin-jwt: JWT Middleware for Gin framework](https://github.com/appleboy/gin-jwt) 
 - [golangci/golangci-lint: Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.](https://github.com/golangci/golangci-lint) 
