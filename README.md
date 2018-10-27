@@ -24,6 +24,9 @@
 
 
 
+
+### October 26, 2018 
+- [Polacode - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) 
 ### October 21, 2018 
 - [jaypipes/ghw: Golang hardware discovery/inspection library](https://github.com/jaypipes/ghw) 
 - [Raphael Pierzina / tweets · GitLab](https://gitlab.com/hackebrot/tweets) 
