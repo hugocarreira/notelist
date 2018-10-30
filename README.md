@@ -28,6 +28,7 @@
 
 ### October 30, 2018 
 - [Deploying Sails.js Web Application on AWS EC2 Instance – Path of the saint coder…](https://saintcoder.wordpress.com/2014/05/29/deploying-sails-js-web-application-on-aws-ec2-instance/) 
+- [justforfunc #31: gRPC Basics - YouTube](https://www.youtube.com/watch?v=uolTUtioIrc) 
 ### October 26, 2018 
 - [Polacode - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) 
 ### October 21, 2018 
