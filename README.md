@@ -26,6 +26,9 @@
 
 
 
+
+### November 1, 2018 
+- [Golang GraphQL API por Eliseu Codinhoto - 7Masters GO - YouTube](https://www.youtube.com/watch?v=vWdLM3IK0gw) 
 ### October 30, 2018 
 - [Deploying Sails.js Web Application on AWS EC2 Instance – Path of the saint coder…](https://saintcoder.wordpress.com/2014/05/29/deploying-sails-js-web-application-on-aws-ec2-instance/) 
 - [justforfunc #31: gRPC Basics - YouTube](https://www.youtube.com/watch?v=uolTUtioIrc) 
