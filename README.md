@@ -31,6 +31,7 @@
 - [Golang GraphQL API por Eliseu Codinhoto - 7Masters GO - YouTube](https://www.youtube.com/watch?v=vWdLM3IK0gw) 
 - [Building High Performance APIs In Go Using gRPC And Protocol Buffers](https://medium.com/@shijuvar/building-high-performance-apis-in-go-using-grpc-and-protocol-buffers-2eda5b80771b#.1bc4b960d) 
 - [gRPC Go: Beyond the basics GopherAcademy](https://blog.gopheracademy.com/advent-2017/go-grpc-beyond-basics/?utm_campaign=A%20Semana%20Go&utm_medium=email&utm_source=Revue%20newsletter) 
+- [GopherCon 2017: Alan Shreve - grpc: From Tutorial to Production - YouTube](https://www.youtube.com/watch?v=7FZ6ZyzGex0) 
 ### October 30, 2018 
 - [Deploying Sails.js Web Application on AWS EC2 Instance – Path of the saint coder…](https://saintcoder.wordpress.com/2014/05/29/deploying-sails-js-web-application-on-aws-ec2-instance/) 
 - [justforfunc #31: gRPC Basics - YouTube](https://www.youtube.com/watch?v=uolTUtioIrc) 
