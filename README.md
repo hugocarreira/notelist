@@ -33,6 +33,7 @@
 - [gRPC Go: Beyond the basics GopherAcademy](https://blog.gopheracademy.com/advent-2017/go-grpc-beyond-basics/?utm_campaign=A%20Semana%20Go&utm_medium=email&utm_source=Revue%20newsletter) 
 - [GopherCon 2017: Alan Shreve - grpc: From Tutorial to Production - YouTube](https://www.youtube.com/watch?v=7FZ6ZyzGex0) 
 - [Building high performance microservices with Kubernetes, Go, and gRPC (Google Cloud Next '17) - YouTube](https://www.youtube.com/watch?v=YiNt4kUnnIM) 
+- [Securing Your Go REST APIs With JWTs | TutorialEdge.net](https://tutorialedge.net/golang/authenticating-golang-rest-api-with-jwts/) 
 ### October 30, 2018 
 - [Deploying Sails.js Web Application on AWS EC2 Instance – Path of the saint coder…](https://saintcoder.wordpress.com/2014/05/29/deploying-sails-js-web-application-on-aws-ec2-instance/) 
 - [justforfunc #31: gRPC Basics - YouTube](https://www.youtube.com/watch?v=uolTUtioIrc) 
