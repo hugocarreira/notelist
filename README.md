@@ -28,6 +28,9 @@
 
 
 
+
+### November 6, 2018 
+- [HTTP server from gRPC with Gateway - My Code Smells!](https://mycodesmells.com/post/http-server-from-grpc-with-gateway) 
 ### November 5, 2018 
 - [How to write high-performance code in Golang using Go-Routines](https://medium.com/@vigneshsk/how-to-write-high-performance-code-in-golang-using-go-routines-227edf979c3c) 
 - [Understanding the context package in golang](http://p.agnihotry.com/post/understanding_the_context_package_in_golang/) 
