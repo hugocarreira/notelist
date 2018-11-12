@@ -32,6 +32,7 @@
 
 ### November 12, 2018 
 - [michaelklishin/rabbit-hole: RabbitMQ HTTP API client in Go](https://github.com/michaelklishin/rabbit-hole) 
+- [src-d/proteus: Generate .proto files from Go source code.](https://github.com/src-d/proteus) 
 ### November 6, 2018 
 - [HTTP server from gRPC with Gateway - My Code Smells!](https://mycodesmells.com/post/http-server-from-grpc-with-gateway) 
 - [malijs/mali: A minimalistic gRPC microservice framework for Node.js](https://github.com/malijs/mali) 
