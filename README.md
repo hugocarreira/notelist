@@ -30,6 +30,9 @@
 
 
 
+
+### November 19, 2018 
+- [utrack/clay: Minimal server platform for gRPС+REST+Swagger APIs](https://github.com/utrack/clay) 
 ### November 12, 2018 
 - [michaelklishin/rabbit-hole: RabbitMQ HTTP API client in Go](https://github.com/michaelklishin/rabbit-hole) 
 - [src-d/proteus: Generate .proto files from Go source code.](https://github.com/src-d/proteus) 
