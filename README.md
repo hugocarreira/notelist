@@ -34,6 +34,7 @@
 
 ### November 21, 2018 
 - [Python for Data Science - Free Course by IBM Cognitive Class](https://cognitiveclass.ai/courses/python-for-data-science/) 
+- [Python para Data Science e Machine Learning - COMPLETO | Udemy](https://www.udemy.com/python-para-data-science-e-machine-learning/) 
 ### November 19, 2018 
 - [utrack/clay: Minimal server platform for gRPС+REST+Swagger APIs](https://github.com/utrack/clay) 
 - [Bulma-Extensions](https://wikiki.github.io/) 
