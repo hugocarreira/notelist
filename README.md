@@ -32,6 +32,9 @@
 
 
 
+
+### November 23, 2018 
+- [Go Microservices with Go kit: Introduction – Shiju Varghese – Medium](https://medium.com/@shijuvar/go-microservices-with-go-kit-introduction-43a757398183) 
 ### November 21, 2018 
 - [Python for Data Science - Free Course by IBM Cognitive Class](https://cognitiveclass.ai/courses/python-for-data-science/) 
 - [Python para Data Science e Machine Learning - COMPLETO | Udemy](https://www.udemy.com/python-para-data-science-e-machine-learning/) 
