@@ -33,6 +33,9 @@
 
 
 
+
+### December 4, 2018 
+- [Using Events In Node.js The Right Way - DEV Community 👩‍💻👨‍💻](https://dev.to/usamaashraf/using-events-in-nodejs-the-right-way-449b) 
 ### November 23, 2018 
 - [Go Microservices with Go kit: Introduction – Shiju Varghese – Medium](https://medium.com/@shijuvar/go-microservices-with-go-kit-introduction-43a757398183) 
 ### November 21, 2018 
