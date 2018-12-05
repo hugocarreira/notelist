@@ -34,6 +34,9 @@
 
 
 
+
+### December 5, 2018 
+- [Django authentication via Google, Deezer, and Spotify - DEV Community 👩‍💻👨‍💻](https://dev.to/hmlon/django-authentication-via-google-deezer-and-spotify-31f6) 
 ### December 4, 2018 
 - [Using Events In Node.js The Right Way - DEV Community 👩‍💻👨‍💻](https://dev.to/usamaashraf/using-events-in-nodejs-the-right-way-449b) 
 ### November 23, 2018 
