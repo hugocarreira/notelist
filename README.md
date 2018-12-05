@@ -37,6 +37,7 @@
 
 ### December 5, 2018 
 - [Django authentication via Google, Deezer, and Spotify - DEV Community 👩‍💻👨‍💻](https://dev.to/hmlon/django-authentication-via-google-deezer-and-spotify-31f6) 
+- [Creating a production ready API with Python and Django Rest Framework - part 1](https://www.andreagrandi.it/2016/09/28/creating-production-ready-api-python-django-rest-framework-part-1/) 
 ### December 4, 2018 
 - [Using Events In Node.js The Right Way - DEV Community 👩‍💻👨‍💻](https://dev.to/usamaashraf/using-events-in-nodejs-the-right-way-449b) 
 ### November 23, 2018 
