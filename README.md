@@ -36,6 +36,9 @@
 
 
 
+
+### December 10, 2018 
+- [simov/grant: OAuth Middleware for Express, Koa and Hapi](https://github.com/simov/grant) 
 ### December 6, 2018 
 - [Django: How to Extend The User Model (aka Custom User Model) - William S. Vincent](https://wsvincent.com/django-custom-user-model-tutorial/) 
 ### December 5, 2018 
