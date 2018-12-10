@@ -39,6 +39,7 @@
 
 ### December 10, 2018 
 - [simov/grant: OAuth Middleware for Express, Koa and Hapi](https://github.com/simov/grant) 
+- [The 100% correct way to structure a React app (or why there’s no such thing)](https://hackernoon.com/the-100-correct-way-to-structure-a-react-app-or-why-theres-no-such-thing-3ede534ef1ed) 
 ### December 6, 2018 
 - [Django: How to Extend The User Model (aka Custom User Model) - William S. Vincent](https://wsvincent.com/django-custom-user-model-tutorial/) 
 ### December 5, 2018 
