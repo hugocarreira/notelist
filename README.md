@@ -38,6 +38,9 @@
 
 
 
+
+### December 13, 2018 
+- [simov/grant: OAuth Middleware for Express, Koa and Hapi](https://github.com/simov/grant) 
 ### December 11, 2018 
 - [O Guia Completo do React e o seu Ecossistema – Tableless – Medium](https://medium.com/tableless/o-guia-completo-do-react-e-o-seu-ecossistema-b31a10ecd84f) 
 - [Organizando uma aplicação com React – Tableless – Medium](https://medium.com/tableless/organizando-uma-aplica%C3%A7%C3%A3o-com-react-5b8ea9075596) 
