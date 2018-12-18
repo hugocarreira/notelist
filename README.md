@@ -39,6 +39,9 @@
 
 
 
+
+### December 18, 2018 
+- [uw-labs/bloomrpc: GUI Client for GRPC Services](https://github.com/uw-labs/bloomrpc) 
 ### December 13, 2018 
 - [simov/grant: OAuth Middleware for Express, Koa and Hapi](https://github.com/simov/grant) 
 ### December 11, 2018 
