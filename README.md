@@ -43,6 +43,7 @@
 
 ### December 19, 2018 
 - [Writing Modular Go Programs with Plugins – Learning the Go Programming Language – Medium](https://medium.com/learning-the-go-programming-language/writing-modular-go-programs-with-plugins-ec46381ee1a9) 
+- [Free Logo Maker - Create your own logo in minutes!](https://logomakr.com/) 
 ### December 18, 2018 
 - [uw-labs/bloomrpc: GUI Client for GRPC Services](https://github.com/uw-labs/bloomrpc) 
 ### December 13, 2018 
