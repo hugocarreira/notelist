@@ -42,6 +42,9 @@
 
 
 
+
+### January 10, 2019 
+- [Nvim documentation: help](https://neovim.io/doc/user/) 
 ### December 27, 2018 
 - [magicmark/composerize: 🏃→🎼 docker run asdlksjfksdf > docker-composerize up](https://github.com/magicmark/composerize) 
 - [Katacoda - Interactive Learning Platform for Software Engineers](https://www.katacoda.com/) 
