@@ -43,6 +43,9 @@
 
 
 
+
+### January 30, 2019 
+- [Idnan/like-on-github: Chrome extension - Link a repository with the extension and automatically save the links to content you like](https://github.com/Idnan/like-on-github) 
 ### January 10, 2019 
 - [Nvim documentation: help](https://neovim.io/doc/user/) 
 ### December 27, 2018 
