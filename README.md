@@ -44,6 +44,9 @@
 
 
 
+
+### February 15, 2019 
+- [jaredpalmer/formik: Build forms in React, without the tears 😭](https://github.com/jaredpalmer/formik) 
 ### January 30, 2019 
 - [Idnan/like-on-github: Chrome extension - Link a repository with the extension and automatically save the links to content you like](https://github.com/Idnan/like-on-github) 
 - [getify/Functional-Light-JS: Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter.](https://github.com/getify/Functional-Light-JS/) 
