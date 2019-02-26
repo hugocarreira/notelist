@@ -48,6 +48,7 @@
 
 ### February 26, 2019 
 - [marktext/marktext: 📝Next generation markdown editor, running on platforms of MacOS Windows and Linux.](https://github.com/marktext/marktext) 
+- [react-boilerplate/react-boilerplate: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.](https://github.com/react-boilerplate/react-boilerplate) 
 ### February 15, 2019 
 - [jaredpalmer/formik: Build forms in React, without the tears 😭](https://github.com/jaredpalmer/formik) 
 ### January 30, 2019 
