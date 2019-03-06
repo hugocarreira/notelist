@@ -49,6 +49,7 @@
 
 ### March 6, 2019 
 - [imolorhe/altair: ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.](https://github.com/imolorhe/altair) 
+- [h2non/imaginary: Fast, simple, scalable HTTP microservice for high-level image processing with first-class Docker support](https://github.com/h2non/imaginary) 
 ### February 26, 2019 
 - [marktext/marktext: 📝Next generation markdown editor, running on platforms of MacOS Windows and Linux.](https://github.com/marktext/marktext) 
 - [react-boilerplate/react-boilerplate: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.](https://github.com/react-boilerplate/react-boilerplate) 
