@@ -52,6 +52,7 @@
 - [Issues · trojanowski/react-apollo-hooks](https://github.com/trojanowski/react-apollo-hooks/issues) 
 - [Habemus React Hooks](https://willianjusten.com.br/habemus-react-hooks/) 
 - [useHooks - Easy to understand React Hook recipes](https://usehooks.com/) 
+- [Collection of React Hooks](https://nikgraf.github.io/react-hooks/) 
 ### March 6, 2019 
 - [imolorhe/altair: ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.](https://github.com/imolorhe/altair) 
 - [h2non/imaginary: Fast, simple, scalable HTTP microservice for high-level image processing with first-class Docker support](https://github.com/h2non/imaginary) 
