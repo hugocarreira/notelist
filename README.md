@@ -51,6 +51,9 @@
 
 
 
+
+### March 19, 2019 
+- [Automattic/kue: Kue is a priority job queue backed by redis, built for node.js.](https://github.com/Automattic/kue) 
 ### March 15, 2019 
 - [Let’s Write a Simple Event Bus in Go – gitconnected.com | Level Up Your Coding](https://levelup.gitconnected.com/lets-write-a-simple-event-bus-in-go-79b9480d8997) 
 ### March 14, 2019 
