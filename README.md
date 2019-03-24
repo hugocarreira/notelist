@@ -52,6 +52,9 @@
 
 
 
+
+### March 24, 2019 
+- [An Example of Go RPC Client and Server | OpsTips](https://ops.tips/gists/example-go-rpc-client-and-server/) 
 ### March 19, 2019 
 - [Automattic/kue: Kue is a priority job queue backed by redis, built for node.js.](https://github.com/Automattic/kue) 
 - [hasura/graphql-engine: Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.](https://github.com/hasura/graphql-engine) 
