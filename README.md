@@ -56,6 +56,9 @@
 
 
 
+
+### March 29, 2019 
+- [Raathigesh/majestic: ⚡ Zero config GUI for Jest](https://github.com/Raathigesh/majestic/) 
 ### March 28, 2019 
 - [Devhints — TL;DR for developer documentation](https://devhints.io/) 
 ### March 27, 2019 
