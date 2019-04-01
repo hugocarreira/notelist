@@ -57,6 +57,9 @@
 
 
 
+
+### April 1, 2019 
+- [VincentGarreau/particles.js: A lightweight JavaScript library for creating particles](https://github.com/VincentGarreau/particles.js) 
 ### March 29, 2019 
 - [Raathigesh/majestic: ⚡ Zero config GUI for Jest](https://github.com/Raathigesh/majestic/) 
 ### March 28, 2019 
