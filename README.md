@@ -61,6 +61,7 @@
 
 ### April 10, 2019 
 - [apex/up: Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.](https://github.com/apex/up) 
+- [Building GraphQL servers in golang — gqlgen](https://gqlgen.com/getting-started/) 
 ### April 1, 2019 
 - [VincentGarreau/particles.js: A lightweight JavaScript library for creating particles](https://github.com/VincentGarreau/particles.js) 
 ### March 29, 2019 
