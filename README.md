@@ -62,6 +62,7 @@
 
 ### April 11, 2019 
 - [jhuangtw-dev/xg2xg: by ex-googlers, for ex-googlers - a lookup table of similar tech & services](https://github.com/jhuangtw-dev/xg2xg) 
+- [react-use/useLogger.md at master · streamich/react-use](https://github.com/streamich/react-use/blob/master/docs/useLogger.md) 
 ### April 10, 2019 
 - [apex/up: Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.](https://github.com/apex/up) 
 - [Building GraphQL servers in golang — gqlgen](https://gqlgen.com/getting-started/) 
