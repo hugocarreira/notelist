@@ -61,6 +61,9 @@
 
 
 
+
+### May 8, 2019 
+- [go-task/task: A task runner / simpler Make alternative written in Go](https://github.com/go-task/task) 
 ### May 7, 2019 
 - [TheAlgorithms/Go: Algorithms Implemented in GoLang](https://github.com/TheAlgorithms/Go) 
 ### April 11, 2019 
