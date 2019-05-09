@@ -62,6 +62,9 @@
 
 
 
+
+### May 9, 2019 
+- [Wmitrut/awesome-brazilian-devblogs: 🇧🇷 - Curadoria de blogs em português brasileiro sobre desenvolvimento](https://github.com/Wmitrut/awesome-brazilian-devblogs) 
 ### May 8, 2019 
 - [go-task/task: A task runner / simpler Make alternative written in Go](https://github.com/go-task/task) 
 ### May 7, 2019 
