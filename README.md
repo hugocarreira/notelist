@@ -66,6 +66,7 @@
 
 ### May 29, 2019 
 - [Kubernetes + Compose = Kompose](http://kompose.io/) 
+- [Kubernetes](http://charliedrage.com/notes/kubernetes) 
 ### May 9, 2019 
 - [Wmitrut/awesome-brazilian-devblogs: 🇧🇷 - Curadoria de blogs em português brasileiro sobre desenvolvimento](https://github.com/Wmitrut/awesome-brazilian-devblogs) 
 - [Exibindo e ocultando o Dock mais rápido | Victor Torres](https://victortorres.net.br/2016/10/12/exibindo-e-ocultando-o-dock-mais-rapido) 
