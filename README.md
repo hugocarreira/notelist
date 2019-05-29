@@ -72,6 +72,7 @@
 - [cweill/gotests: Generate Go tests from your source code.](https://github.com/cweill/gotests) 
 - [pquerna/ffjson: faster JSON serialization for Go](https://github.com/pquerna/ffjson) 
 - [lileio/lile: Easily generate gRPC services in Go ⚡️](https://github.com/lileio/lile) 
+- [thedevsaddam/gojsonq: A simple Go package to Query over JSON/YAML/XML/CSV Data](https://github.com/thedevsaddam/gojsonq) 
 ### May 9, 2019 
 - [Wmitrut/awesome-brazilian-devblogs: 🇧🇷 - Curadoria de blogs em português brasileiro sobre desenvolvimento](https://github.com/Wmitrut/awesome-brazilian-devblogs) 
 - [Exibindo e ocultando o Dock mais rápido | Victor Torres](https://victortorres.net.br/2016/10/12/exibindo-e-ocultando-o-dock-mais-rapido) 
