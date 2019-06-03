@@ -65,6 +65,9 @@
 
 
 
+
+### June 3, 2019 
+- [vagas/desafios/software-engineer-backend at master · pagarme/vagas](https://github.com/pagarme/vagas/tree/master/desafios/software-engineer-backend) 
 ### May 31, 2019 
 - [node-api-boilerplate/src/domain at master · talyssonoc/node-api-boilerplate](https://github.com/talyssonoc/node-api-boilerplate/tree/master/src/domain) 
 ### May 29, 2019 
