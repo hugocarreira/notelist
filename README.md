@@ -68,6 +68,9 @@
 
 
 
+
+### June 6, 2019 
+- [Create custom GraphQL types – YLD Blog – Medium](https://medium.com/yld-engineering-blog/create-custom-graphql-types-999f009d3f46) 
 ### June 5, 2019 
 - [tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards#readme) 
 ### June 4, 2019 
