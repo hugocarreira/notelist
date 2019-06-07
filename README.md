@@ -69,6 +69,9 @@
 
 
 
+
+### June 7, 2019 
+- [grpc-ecosystem/awesome-grpc: A curated list of useful resources for gRPC](https://github.com/grpc-ecosystem/awesome-grpc) 
 ### June 6, 2019 
 - [Create custom GraphQL types – YLD Blog – Medium](https://medium.com/yld-engineering-blog/create-custom-graphql-types-999f009d3f46) 
 ### June 5, 2019 
