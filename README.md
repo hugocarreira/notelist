@@ -74,6 +74,7 @@
 - [grpc-ecosystem/awesome-grpc: A curated list of useful resources for gRPC](https://github.com/grpc-ecosystem/awesome-grpc) 
 - [How we use gRPC to build a client/server system in Go](https://medium.com/pantomath/how-we-use-grpc-to-build-a-client-server-system-in-go-dd20045fa1c2) 
 - [Building High Performance APIs In Go Using gRPC | Agira Technologies](https://www.agiratech.com/building-high-performance-apis-go-grpc/) 
+- [[Tutorial, Part 1] How to develop Go gRPC microservice with HTTP/REST endpoint, middleware…](https://medium.com/@amsokol.com/tutorial-how-to-develop-go-grpc-microservice-with-http-rest-endpoint-middleware-kubernetes-daebb36a97e9) 
 ### June 6, 2019 
 - [Create custom GraphQL types – YLD Blog – Medium](https://medium.com/yld-engineering-blog/create-custom-graphql-types-999f009d3f46) 
 ### June 5, 2019 
