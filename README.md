@@ -72,6 +72,7 @@
 
 ### June 7, 2019 
 - [grpc-ecosystem/awesome-grpc: A curated list of useful resources for gRPC](https://github.com/grpc-ecosystem/awesome-grpc) 
+- [How we use gRPC to build a client/server system in Go](https://medium.com/pantomath/how-we-use-grpc-to-build-a-client-server-system-in-go-dd20045fa1c2) 
 ### June 6, 2019 
 - [Create custom GraphQL types – YLD Blog – Medium](https://medium.com/yld-engineering-blog/create-custom-graphql-types-999f009d3f46) 
 ### June 5, 2019 
