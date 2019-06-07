@@ -76,6 +76,7 @@
 - [Building High Performance APIs In Go Using gRPC | Agira Technologies](https://www.agiratech.com/building-high-performance-apis-go-grpc/) 
 - [[Tutorial, Part 1] How to develop Go gRPC microservice with HTTP/REST endpoint, middleware…](https://medium.com/@amsokol.com/tutorial-how-to-develop-go-grpc-microservice-with-http-rest-endpoint-middleware-kubernetes-daebb36a97e9) 
 - [Building High Performance APIs In Go Using gRPC And Protocol Buffers](https://medium.com/@shijuvar/building-high-performance-apis-in-go-using-grpc-and-protocol-buffers-2eda5b80771b) 
+- [talks/grpc-presentation.md at master · jonog/talks](https://github.com/jonog/talks/blob/master/src/grpc/grpc-presentation.md) 
 ### June 6, 2019 
 - [Create custom GraphQL types – YLD Blog – Medium](https://medium.com/yld-engineering-blog/create-custom-graphql-types-999f009d3f46) 
 ### June 5, 2019 
