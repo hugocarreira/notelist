@@ -70,6 +70,9 @@
 
 
 
+
+### June 12, 2019 
+- [A New, Simpler Way to Do Dependency Injection in Go](https://medium.com/swlh/a-new-simpler-way-to-do-dependency-injection-in-go-9e191bef50d5) 
 ### June 7, 2019 
 - [grpc-ecosystem/awesome-grpc: A curated list of useful resources for gRPC](https://github.com/grpc-ecosystem/awesome-grpc) 
 - [How we use gRPC to build a client/server system in Go](https://medium.com/pantomath/how-we-use-grpc-to-build-a-client-server-system-in-go-dd20045fa1c2) 
