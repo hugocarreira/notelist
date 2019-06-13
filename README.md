@@ -71,6 +71,9 @@
 
 
 
+
+### June 13, 2019 
+- [golang-migrate/migrate: Database migrations. CLI and Golang library.](https://github.com/golang-migrate/migrate) 
 ### June 12, 2019 
 - [A New, Simpler Way to Do Dependency Injection in Go](https://medium.com/swlh/a-new-simpler-way-to-do-dependency-injection-in-go-9e191bef50d5) 
 ### June 7, 2019 
