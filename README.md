@@ -72,6 +72,9 @@
 
 
 
+
+### June 19, 2019 
+- [go-grpc-bidirectional-streaming-example/client.go at master · pahanini/go-grpc-bidirectional-streaming-example](https://github.com/pahanini/go-grpc-bidirectional-streaming-example/blob/master/src/client/client.go) 
 ### June 13, 2019 
 - [golang-migrate/migrate: Database migrations. CLI and Golang library.](https://github.com/golang-migrate/migrate) 
 ### June 12, 2019 
