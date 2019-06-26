@@ -73,6 +73,9 @@
 
 
 
+
+### June 26, 2019 
+- [Svelte: A era dos frameworks-compiladores - Claudio Holanda](https://claudioholanda.ch/blog/svelte-a-era-dos-frameworks-compiladores/) 
 ### June 19, 2019 
 - [go-grpc-bidirectional-streaming-example/client.go at master · pahanini/go-grpc-bidirectional-streaming-example](https://github.com/pahanini/go-grpc-bidirectional-streaming-example/blob/master/src/client/client.go) 
 ### June 13, 2019 
