@@ -77,6 +77,7 @@
 
 ### July 2, 2019 
 - [naptha/tesseract.js: Pure Javascript OCR for more than 100 Languages 📖🎉🖥](https://github.com/naptha/tesseract.js) 
+- [tdegrunt/jsonschema: JSON Schema validation](https://github.com/tdegrunt/jsonschema#readme) 
 ### June 26, 2019 
 - [Svelte: A era dos frameworks-compiladores - Claudio Holanda](https://claudioholanda.ch/blog/svelte-a-era-dos-frameworks-compiladores/) 
 ### June 19, 2019 
