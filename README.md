@@ -75,6 +75,9 @@
 
 
 
+
+### July 5, 2019 
+- [larien/learn-go-with-tests: Aprenda Go com desenvolvimento orientado a testes](https://github.com/larien/learn-go-with-tests) 
 ### July 2, 2019 
 - [naptha/tesseract.js: Pure Javascript OCR for more than 100 Languages 📖🎉🖥](https://github.com/naptha/tesseract.js) 
 - [tdegrunt/jsonschema: JSON Schema validation](https://github.com/tdegrunt/jsonschema#readme) 
