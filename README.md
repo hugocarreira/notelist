@@ -76,6 +76,9 @@
 
 
 
+
+### July 23, 2019 
+- [qishibo/AnotherRedisDesktopManager: 🚀🚀🚀A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.](https://github.com/qishibo/AnotherRedisDesktopManager) 
 ### July 5, 2019 
 - [larien/learn-go-with-tests: Aprenda Go com desenvolvimento orientado a testes](https://github.com/larien/learn-go-with-tests) 
 - [ehmicky/autoserver: Create a full-featured REST/GraphQL API from a configuration file](https://github.com/ehmicky/autoserver) 
