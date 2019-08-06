@@ -80,6 +80,7 @@
 
 ### August 6, 2019 
 - [Introdução ao gRPC no ASP.NET Core | Microsoft Docs](https://docs.microsoft.com/pt-br/aspnet/core/grpc/?view=aspnetcore-3.0&WT.mc_id=devto-blog-shboyer) 
+- [Photon - Type-safe database access (ORM)](https://photonjs.prisma.io/) 
 ### July 23, 2019 
 - [qishibo/AnotherRedisDesktopManager: 🚀🚀🚀A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.](https://github.com/qishibo/AnotherRedisDesktopManager) 
 ### July 5, 2019 
