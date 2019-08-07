@@ -78,6 +78,9 @@
 
 
 
+
+### August 7, 2019 
+- [prisma/prisma-examples: 💡 Examples of Prisma using different languages and technologies](https://github.com/prisma/prisma-examples) 
 ### August 6, 2019 
 - [Introdução ao gRPC no ASP.NET Core | Microsoft Docs](https://docs.microsoft.com/pt-br/aspnet/core/grpc/?view=aspnetcore-3.0&WT.mc_id=devto-blog-shboyer) 
 - [Photon - Type-safe database access (ORM)](https://photonjs.prisma.io/) 
