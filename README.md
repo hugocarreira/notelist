@@ -79,6 +79,9 @@
 
 
 
+
+### October 16, 2019 
+- [guide/style.md at master · uber-go/guide](https://github.com/uber-go/guide/blob/master/style.md?utm_campaign=A%20Semana%20Go&utm_medium=email&utm_source=Revue%20newsletter) 
 ### August 7, 2019 
 - [prisma/prisma-examples: 💡 Examples of Prisma using different languages and technologies](https://github.com/prisma/prisma-examples) 
 - [Introdução - Aprenda Go com Testes](https://larien.gitbook.io/aprenda-go-com-testes/?utm_campaign=A%20Semana%20Go&utm_medium=email&utm_source=Revue%20newsletter) 
